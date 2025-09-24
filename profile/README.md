@@ -6,6 +6,16 @@
 
 Production-ready microservices architecture built with multiple programming languages, containerized with Docker, orchestrated with Kubernetes, and deployed using GitOps principles.
 
+![Demo 0](0.png)
+
+![Demo 1](1.png)
+
+![Demo 2](2.png)
+
+## Additional functionality of this microservice is querying kubernetes cluster
+
+![Demo 3](3.png)
+
 ### 🎯 What This Platform Does
 
 - **📝 Notes Management** - Create, read, update, and delete personal notes
